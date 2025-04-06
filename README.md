@@ -1,2 +1,2 @@
 # artysandy
-artysandy development
+artysandy development for a wordpress gallery shop
